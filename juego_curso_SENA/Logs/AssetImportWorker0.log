@@ -1,0 +1,147 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.418; Version 1909; 64bit' Language: 'es' Physical Memory: 8065 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Warth & Perky/Desktop/juego_curso_SENA
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57734
+Successfully changed project path to: C:/Users/Warth & Perky/Desktop/juego_curso_SENA
+C:/Users/Warth & Perky/Desktop/juego_curso_SENA
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 82.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Warth & Perky/Desktop/juego_curso_SENA/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4032 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003287 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.272 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001839 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.716 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.9 MB.
+System memory in use after: 81.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 2.464200 ms (FindLiveObjects: 0.198500 ms CreateObjectMapping: 0.080600 ms MarkObjects: 2.089800 ms  DeleteObjects: 0.093800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Prototype 2_Profiles/Post_processing_C Profile.asset
+  artifactKey: Guid(e0c3cda597b572447acbdedbea25991b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prototype 2_Profiles/Post_processing_C Profile.asset using Guid(e0c3cda597b572447acbdedbea25991b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab56e30e616c076679f466d96b1ed354') in 0.104594 seconds
+  Import took 0.108688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.106375 seconds.
+  path: Assets/Player/T-Pose.fbx
+  artifactKey: Guid(5c253e2a9bd08cd4d98a56696488ef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/T-Pose.fbx using Guid(5c253e2a9bd08cd4d98a56696488ef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f921dd22aa6928eaa08425978bf7f67e') in 0.916311 seconds
+  Import took 0.921715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Player/T-Pose@Happy Idle.fbx
+  artifactKey: Guid(bf7bfebf9bef86e4c80b6f7cf0452ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/T-Pose@Happy Idle.fbx using Guid(bf7bfebf9bef86e4c80b6f7cf0452ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ad4df6b4b9de61b94a20db611a9214') in 0.067425 seconds
+  Import took 0.074449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Player/T-Pose@Running.fbx
+  artifactKey: Guid(0ab213c50cc55dc4ba50d12ace6d94b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/T-Pose@Running.fbx using Guid(0ab213c50cc55dc4ba50d12ace6d94b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f6b3a737ae1197e3b511f6e1645466') in 0.058265 seconds
+  Import took 0.064936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Player/textura marcianito.png
+  artifactKey: Guid(2268d20d2223b8e4fb08c74f576f6f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/textura marcianito.png using Guid(2268d20d2223b8e4fb08c74f576f6f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f428e59a3c7b01912abf36777cbba10') in 0.072454 seconds
+  Import took 0.077024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Player/T-Pose@Wave Hip Hop Dance.fbx
+  artifactKey: Guid(ff2c53cdb1aae02478454595c126a785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/T-Pose@Wave Hip Hop Dance.fbx using Guid(ff2c53cdb1aae02478454595c126a785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b35b13d8483193b48ae36a27d6f533e') in 0.088057 seconds
+  Import took 0.093650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Player/T-Pose@Jump.fbx
+  artifactKey: Guid(402a57065fd072c4f9a11a92dd127249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/T-Pose@Jump.fbx using Guid(402a57065fd072c4f9a11a92dd127249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f28ad758cb48ddcffc6731743fbd5d3f') in 0.069644 seconds
+  Import took 0.074601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Player/T-Pose@Thriller Part 4.fbx
+  artifactKey: Guid(51ef91a7ca9d53349babab233d7bd950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/T-Pose@Thriller Part 4.fbx using Guid(51ef91a7ca9d53349babab233d7bd950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4efe270aa9d21204f964ae7f2b0b710') in 0.108135 seconds
+  Import took 0.113787 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001202 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.603 seconds
+Platform modules already initialized, skipping
